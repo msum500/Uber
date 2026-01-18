@@ -80,7 +80,7 @@ Overall, the data indicates that the majority of Uber users prefer cost-effectiv
 
 Ride Distance (kms): 24.64
 
-Booking Value ($): 10.17
+Booking Value ($NZD): 10.17
 
 Driver Rating: 4.23
 
