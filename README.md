@@ -41,6 +41,9 @@ The chart indicates that non-rush-hour rides account for a greater proportion of
 
 Overall, while rush hours represent periods of concentrated demand, the results demonstrate that Uber usage remains consistently high across non-peak periods, highlighting the platform’s importance as an all-day transportation service rather than one used exclusively during commuting hours.
 
+#### Here is a scatter plot showing Uber Rides by Hour of Day, highlighting whether they fall within Rush Hour times.
+
+![Scatter Plot](ScatterPlot.png)
 
 **Uber Rides based on Booking Status:**
 
